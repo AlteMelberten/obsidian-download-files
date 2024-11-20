@@ -1,7 +1,7 @@
 {
   "id": "Spindi-Download-Plugin",
   "name": "Spindi Download Plugin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "laedt Dateien aus den Ordnern assets und pages im angegebenen Quellverzeichnis, falls sie noch nicht im lokalen Obsidian-Verzeichnis vorhanden sind.",
   "author": "Mario Spindler",
   "main": "main.js",
