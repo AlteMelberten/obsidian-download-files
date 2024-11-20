@@ -1,6 +1,4 @@
 {
-  "1.0.0": {
-    "minAppVersion": "0.15.0",
-    "download": "https://github.com/AlteMelberten/obsidian-download-files/releases/download/v1.0.0/obsidian-download-files.zip"
-  }
+  "pluginVersion": "1.0.0",
+  "url": "https://github.com/AlteMelberten/obsidian-download-files/releases/download/v1.0.0/obsidian-download-files.zip"
 }
