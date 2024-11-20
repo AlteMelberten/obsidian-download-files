@@ -3,9 +3,8 @@
   "name": "Spindi Download Plugin",
   "version": "1.0.0",
   "description": "laedt Dateien aus den Ordnern assets und pages im angegebenen Quellverzeichnis, falls sie noch nicht im lokalen Obsidian-Verzeichnis vorhanden sind.",
-  "author": "Mario Spindler",
+  "author": "Spindi",
   "main": "main.js",
   "minAppVersion": "1.0.0",
   "updateUrl": "https://raw.githubusercontent.com/AlteMelberten/obsidian-download-files/v1.0.0/versions.json"
-"
 }
